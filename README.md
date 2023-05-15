@@ -10,7 +10,7 @@ My experience encompasses a wide variety of tools, ranging from Front-End to Bac
 
 If you believe that I might be a good fit for a project or role, please get in touch! I am always looking for new opportunities to learn and grow. Check out my portfolio at lauraehiller.com to view the projects I have contributed to.
 
-<div style="display:flex;flex-direction:column;">
+<div style="display:flex;flex-direction:row;">
 
 [![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauraehiller&count_private=true&show_icons=true&rank_icon=github)](https://github.com/lauraehiller/github-readme-stats)
 
