@@ -10,4 +10,4 @@ If you believe that I might be a good fit for a project or role, please get in t
 
 [![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauraehiller&count_private=true&custom_title=Stats&hide=stars,contribs)](https://github.com/lauraehiller/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraehiller&custom_title=ToolBox&layout=compact)](https://github.com/lauraehiller/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraehiller&layout=compact)](https://github.com/lauraehiller/github-readme-stats)
