@@ -10,7 +10,7 @@ If you believe that I might be a good fit for a project or role, please get in t
 
 <div style="display:inline-block;">
 
-[![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauraehiller&count_private=true&show_icons=true&rank_icon=github&card_width=300)](https://github.com/lauraehiller/github-readme-stats)
+[![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauraehiller&count_private=true&show_icons=true&rank_icon=github&card_width=100)](https://github.com/lauraehiller/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraehiller&layout=compact&langs_count=10)](https://github.com/lauraehiller/github-readme-stats)
 
