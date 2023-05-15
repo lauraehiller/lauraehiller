@@ -12,5 +12,5 @@ If you believe that I might be a good fit for a project or role, please get in t
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=lauraehiller&count_private=true&custom_title=Stats&hide=stars,contribs" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraehiller&layout=compact" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraehiller&layout=compact&custom_title=ToolBox" />
 </a>
