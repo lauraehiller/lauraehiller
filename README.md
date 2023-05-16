@@ -11,17 +11,24 @@ Check out my portfolio [lauraehiller.com](https://lauraehiller.com/) to view pro
 ## My Tool Box
 
 <ul>
-<li>Languages:   
+<li>Languages: 
+<br/>  
 <a href="https://skillicons.dev">
     <img height="30" align="center" src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,c,cpp&theme=dark" />
 </a></li>
-<li>Frameworks:    <a href="https://skillicons.dev">
+<li>Frameworks:  
+<br/>  
+  <a href="https://skillicons.dev">
     <img height="30" align="center" src="https://skillicons.dev/icons?i=nextjs,tailwind&theme=dark" />
   </a></li>
-  <li>Databases:   <a href="https://skillicons.dev">
+  <li>Databases:  
+  <br/>  
+   <a href="https://skillicons.dev">
     <img height="30" align="center" src="https://skillicons.dev/icons?i=graphql,mysql,postgres&theme=dark" />
   </a></li>
-  <li>Other:   <a href="https://skillicons.dev">
+  <li>Other:  
+  <br/>  
+   <a href="https://skillicons.dev">
     <img height="30" src="https://skillicons.dev/icons?i=git,blender,wordpress&theme=dark" />
   </a></li>
 </ul>
