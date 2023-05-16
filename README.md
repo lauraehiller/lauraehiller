@@ -1,4 +1,4 @@
-# Hi, Laura here!<a href="https://codepen.io/eofnums"><img height="30" align="right" src="https://skillicons.dev/icons?i=codepen&theme=light" /></a><a href="https://www.linkedin.com/in/laura-e-hiller/"><img height="30" align="right" src="https://skillicons.dev/icons?i=linkedin&theme=light" /></a>
+# Hi, Laura here!<a href="https://codepen.io/eofnums"><img height="30" align="right" src="https://skillicons.dev/icons?i=codepen&theme=dark" /></a><a href="https://www.linkedin.com/in/laura-e-hiller/"><img height="30" align="right" src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
 
 I'm a Software Developer with a Bachelor's Degree in Computer Science and an exceptional eye for Design!
 
@@ -8,30 +8,42 @@ If you believe that I might be a good fit for a project or role, please get in t
 
 Check out my portfolio [lauraehiller.com](https://lauraehiller.com/) to view projects I have contributed to!
 
+<ol>
+
+<li>Languages   
+<a href="https://skillicons.dev">
+    <img height="30" align="center" src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,c,cpp&theme=dark" />
+</a></li>
+
+<li>Frameworks   <a href="https://skillicons.dev">
+    <img height="30" align="center" src="https://skillicons.dev/icons?i=nextjs,tailwind&theme=dark" />
+  </a></li>
+
+</ol>
 ## My Tool Box
 
 ### Languages
 
   <a href="https://skillicons.dev">
-    <img height="30" align="center" src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,c,cpp&theme=light" />
+    <img height="30" align="center" src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,c,cpp&theme=dark" />
   </a>
 
 ### Frameworks
 
   <a href="https://skillicons.dev">
-    <img height="30" align="center" src="https://skillicons.dev/icons?i=nextjs,tailwind&theme=light" />
+    <img height="30" align="center" src="https://skillicons.dev/icons?i=nextjs,tailwind&theme=dark" />
   </a>
 
 ### Databases
 
   <a href="https://skillicons.dev">
-    <img height="30" align="center" src="https://skillicons.dev/icons?i=graphql,mysql,postgres&theme=light" />
+    <img height="30" align="center" src="https://skillicons.dev/icons?i=graphql,mysql,postgres&theme=dark" />
   </a>
 
 ### Other
 
   <a href="https://skillicons.dev">
-    <img height="30" src="https://skillicons.dev/icons?i=git,blender,wordpress&theme=light" />
+    <img height="30" src="https://skillicons.dev/icons?i=git,blender,wordpress&theme=dark" />
   </a>
 
 ## My Stats
