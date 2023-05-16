@@ -1,4 +1,4 @@
-# Hi, Laura here! [![Social Media](https://skillicons.dev/icons?i=codepen&theme=light)](https://codepen.io/eofnums)[![Social Media](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/laura-e-hiller/)
+# Hi, Laura here! [![Social Media](https://skillicons.dev/icons?i=codepen,linkedin&theme=light)](https://codepen.io/eofnums,https://www.linkedin.com/in/laura-e-hiller/)[![Social Media](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/laura-e-hiller/)
 
 I'm a Software Developer with a Bachelor's Degree in Computer Science and an exceptional eye for Design!
 
@@ -24,7 +24,7 @@ Check out my portfolio [lauraehiller.com](https://lauraehiller.com/) to view pro
 
 ### Other
 
-[![Other](https://skillicons.dev/icons?i=github,blender,wordpress&theme=light)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=git,blender,wordpress&theme=light)](https://skillicons.dev)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=lauraehiller&count_private=true&hide=stars" />
