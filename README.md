@@ -34,33 +34,6 @@ Other
 <img height="30" src="https://skillicons.dev/icons?i=git,blender,wordpress&theme=dark" />
 </a>
 
-<ul>
-  <li>Languages
-    <br/>  
-    <a href="https://skillicons.dev">
-        <img height="30" src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,c,cpp&theme=dark" />
-    </a>
-  </li>
-  <li>Frameworks  
-    <br/>  
-    <a href="https://skillicons.dev">
-      <img height="30" src="https://skillicons.dev/icons?i=nextjs,tailwind&theme=dark" />
-    </a>
-  </li>
-  <li>Databases  
-    <br/>  
-    <a href="https://skillicons.dev">
-      <img height="30" src="https://skillicons.dev/icons?i=graphql,mysql,postgres&theme=dark" />
-    </a>
-  </li>
-  <li>Other  
-    <br/>  
-    <a href="https://skillicons.dev">
-      <img height="30" src="https://skillicons.dev/icons?i=git,blender,wordpress&theme=dark" />
-    </a>
-  </li>
-</ul>
-
 ## My Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
