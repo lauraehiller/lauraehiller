@@ -13,22 +13,26 @@ Check out my portfolio [lauraehiller.com](https://lauraehiller.com/) to view pro
 ### Languages
 
   <a href="https://skillicons.dev">
-    <img height="20" align="center" src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,c,cpp&theme=light" />
+    <img height="30" align="center" src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,c,cpp&theme=light" />
   </a>
-
-[![Languages](https://skillicons.dev/icons?i=react,ts,js,html,css,sass,c,cpp&theme=light)](https://skillicons.dev)
 
 ### Frameworks
 
-[![Frameworks](https://skillicons.dev/icons?i=nextjs,tailwind&theme=light)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img height="30" align="center" src="https://skillicons.dev/icons?i=nextjs,tailwind&theme=light" />
+  </a>
 
 ### Databases
 
-[![Databases](https://skillicons.dev/icons?i=graphql,mysql,postgres&theme=light)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img height="30" align="center" src="https://skillicons.dev/icons?i=graphql,mysql,postgres&theme=light" />
+  </a>
 
 ### Other
 
-[![Other](https://skillicons.dev/icons?i=git,blender,wordpress&theme=light)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img height="30" align="center" src="https://skillicons.dev/icons?i=git,blender,wordpress&theme=light" />
+  </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=lauraehiller&count_private=true&hide=stars" />
