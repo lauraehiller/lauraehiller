@@ -31,7 +31,7 @@ Check out my portfolio [lauraehiller.com](https://lauraehiller.com/) to view pro
 ### Other
 
   <a href="https://skillicons.dev">
-    <img height="30" align="center" src="https://skillicons.dev/icons?i=git,blender,wordpress&theme=light" />
+    <img height="30" src="https://skillicons.dev/icons?i=git,blender,wordpress&theme=light" />
   </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
