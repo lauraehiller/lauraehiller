@@ -1,12 +1,4 @@
-# Hi, Laura here!
-
-<a href="https://codepen.io/eofnums">
-    <img height="30" src="https://skillicons.dev/icons?i=codepen&theme=light" />
-</a>
-
-  <a href="https://www.linkedin.com/in/laura-e-hiller/">
-    <img height="30" src="https://skillicons.dev/icons?i=linkedin&theme=light" />
-  </a>
+# Hi, Laura here!<a href="https://codepen.io/eofnums"><img height="30" src="https://skillicons.dev/icons?i=codepen&theme=light" /></a><a href="https://www.linkedin.com/in/laura-e-hiller/"><img height="30" src="https://skillicons.dev/icons?i=linkedin&theme=light" /></a>
 
 I'm a Software Developer with a Bachelor's Degree in Computer Science and an exceptional eye for Design!
 
