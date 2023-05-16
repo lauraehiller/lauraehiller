@@ -1,4 +1,4 @@
-# Hi, Laura here! [![Social Media](https://skillicons.dev/icons?i=codepen, github, linkedin&theme=light)](https://codepen.io/eofnums)(https://github.com/lauraehiller)(https://www.linkedin.com/in/laura-e-hiller/)
+# Hi, Laura here! [![Social Media](https://skillicons.dev/icons?i=codepen&theme=light)](https://codepen.io/eofnums)[![Social Media](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/laura-e-hiller/)
 
 I'm a Software Developer with a Bachelor's Degree in Computer Science and an exceptional eye for Design!
 
@@ -10,16 +10,20 @@ If you believe that I might be a good fit for a project or role, please get in t
 
 Check out my portfolio [lauraehiller.com](https://lauraehiller.com/) to view projects I have contributed to!
 
-Languages
+### Languages
+
 [![Languages](https://skillicons.dev/icons?i=react,ts,js,html,css,sass,c,cpp&theme=light)](https://skillicons.dev)
 
-Frameworks
+### Frameworks
+
 [![Frameworks](https://skillicons.dev/icons?i=nextjs,tailwind&theme=light)](https://skillicons.dev)
 
-Databases
+### Databases
+
 [![Databases](https://skillicons.dev/icons?i=graphql,mysql,postgres&theme=light)](https://skillicons.dev)
 
-Other
+### Other
+
 [![Other](https://skillicons.dev/icons?i=github,blender,wordpress&theme=light)](https://skillicons.dev)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
