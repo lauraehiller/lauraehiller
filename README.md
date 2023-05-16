@@ -10,6 +10,8 @@ If you believe that I might be a good fit for a project or role, please get in t
 
 Check out my portfolio [lauraehiller.com](https://lauraehiller.com/) to view projects I have contributed to!
 
+## My Tool Box
+
 ### Languages
 
   <a href="https://skillicons.dev">
@@ -33,6 +35,8 @@ Check out my portfolio [lauraehiller.com](https://lauraehiller.com/) to view pro
   <a href="https://skillicons.dev">
     <img height="30" src="https://skillicons.dev/icons?i=git,blender,wordpress&theme=light" />
   </a>
+
+## My Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=lauraehiller&count_private=true&hide=stars" />
