@@ -12,11 +12,9 @@ Check out my portfolio [lauraehiller.com](https://lauraehiller.com/) to view pro
 
 ### Languages
 
-<p font-size="10px">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,c,cpp&theme=light" />
+    <img height="20" align="center" src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,c,cpp&theme=light" />
   </a>
-</p>
 
 [![Languages](https://skillicons.dev/icons?i=react,ts,js,html,css,sass,c,cpp&theme=light)](https://skillicons.dev)
 
